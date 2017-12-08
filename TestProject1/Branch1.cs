@@ -12,5 +12,9 @@ namespace TestProject1
         {
             return a - b;
         }
+        public int substract2(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
