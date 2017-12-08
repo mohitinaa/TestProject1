@@ -8,5 +8,9 @@ namespace TestProject1
 {
     class Branch2
     {
+        public int add(int a,int b)
+        {
+            return a + b;
+        }
     }
 }
