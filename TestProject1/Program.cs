@@ -18,6 +18,8 @@ namespace TestProject1
             Console.ReadLine();
             Console.WriteLine("Test");
             Console.ReadLine();
+            Console.WriteLine("Test");
+            Console.ReadLine();
         }
     }
 }
