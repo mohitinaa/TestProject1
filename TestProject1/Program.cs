@@ -10,15 +10,11 @@ namespace TestProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test1");
             Console.ReadLine();
-            Console.WriteLine("Test");
+            Console.WriteLine("Test2");
             Console.ReadLine();
-            Console.WriteLine("Test");
-            Console.ReadLine();
-            Console.WriteLine("Test");
-            Console.ReadLine();
-            Console.WriteLine("Test");
+            Console.WriteLine("Test3");
             Console.ReadLine();
         }
     }
