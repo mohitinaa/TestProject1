@@ -8,5 +8,9 @@ namespace TestProject1
 {
     class Branch1
     {
+        public int substract(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
